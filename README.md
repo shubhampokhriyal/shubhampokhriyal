@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=Full-Stack+Developer+%26+SaaS+Architect;Designing+Scalable+%26+Modern+Web+Applications;Node.js+%7C+React+%7C+Next.js+%7C+NestJS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=Full-Stack+Developer+%26+SaaS+Architect;Designing+Scalable+%26+Modern+Web+Applications;Node.js+%7C+React+%7C+Next.js+%7C+NestJS+%7C+Laravel" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views & Stats Badges -->
@@ -23,12 +23,12 @@
 
 Hi! I’m **Shubham**, a **Full-Stack Developer & SaaS Architect** passionate about building performant, scalable, and modern applications.
 
-- 🌐 I specialize in **full-stack engineering** using **React, Next.js, Node.js, and NestJS**
-- 🧩 Architecting **multi-tenant SaaS applications** is my core strength  
-- 🔗 Building robust **REST + GraphQL APIs** and backend systems  
-- 🗃️ Strong expertise in **MySQL, MongoDB, Prisma, TypeORM & Redis**  
-- ⚙️ Experienced in **distributed systems, caching, queues, and system design**
-- 🔍 I love solving real-world engineering problems and optimizing applications
+- 🌐 Expert in **full-stack development** using **React, Next.js, Node.js, NestJS & Laravel**
+- 🧩 Architecting **multi-tenant SaaS systems** with modern best practices  
+- 🔗 Building robust **REST & GraphQL APIs**  
+- 🗃️ Deep experience with **MySQL, MongoDB, Prisma, TypeORM & Redis**  
+- ⚙️ Skilled in backend performance, caching, and system design  
+- 🔍 I love solving real-world engineering problems & optimizing applications
 
 ---
 
@@ -37,6 +37,7 @@ Hi! I’m **Shubham**, a **Full-Stack Developer & SaaS Architect** passionate ab
 ### **Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -54,6 +55,8 @@ Hi! I’m **Shubham**, a **Full-Stack Developer & SaaS Architect** passionate ab
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ---
 
