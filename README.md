@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=Full-Stack+Developer+%26+SaaS+Architect;Designing+Scalable+%26+Modern+Web+Applications;Node.js+%7C+React+%7C+Next.js+%7C+NestJS+%7C+Laravel+%7C+Vue.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=Full-Stack+Developer+%26+SaaS+Architect;Designing+Scalable+%26+Modern+Web+Applications;Node.js+%7C+React+%7C+Next.js+%7C+Laravel+%7C+Vue.js" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views & Stats Badges -->
@@ -21,14 +21,14 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-Hi! I’m **Shubham**, a **Full-Stack Developer & SaaS Architect** passionate about building performant, scalable, and modern applications.
+Hi! I’m **Shubham**, a **Full-Stack Developer & SaaS Architect** passionate about building scalable and modern applications.
 
-- 🌐 Specialized in **React, Next.js, Vue.js, Node.js, NestJS, Laravel**
-- 🧩 Architecting **multi-tenant SaaS applications** is my core strength  
-- 🔗 Building robust **REST & GraphQL APIs**  
-- 🗃️ Strong expertise in **MySQL, MongoDB, Prisma, TypeORM & Redis**  
-- ⚙️ Experienced in **backend engineering, scalability & caching**  
-- 💡 Passionate about **modern full-stack engineering & system design**
+- 🌐 Expert in **full-stack development** (React, Next.js, Vue.js, Node.js, NestJS, Laravel)  
+- 🧩 Specialized in **SaaS architecture** & **multi-tenant system design**  
+- 🔗 Strong in API engineering (**REST & GraphQL**)  
+- 🗃️ Deep experience with **MySQL, MongoDB, TypeORM, Prisma & Redis**  
+- ⚙️ Known for building robust, optimized backend systems  
+- 🔍 Love solving complex engineering problems and improving performance  
 
 ---
 
@@ -38,7 +38,7 @@ Hi! I’m **Shubham**, a **Full-Stack Developer & SaaS Architect** passionate ab
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -55,13 +55,12 @@ Hi! I’m **Shubham**, a **Full-Stack Developer & SaaS Architect** passionate ab
 ### **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ---
 
-### **Databases / ORM / Cache**
+### **Databases & Storage**
 ![MySQL](https://img.shields.io/badge/MySQL-0A74DA?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
@@ -113,10 +112,7 @@ Hi! I’m **Shubham**, a **Full-Stack Developer & SaaS Architect** passionate ab
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhampokhriyal)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shubhampokhriyal)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mailshubhampokhriyal@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/shubhampokhriyal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-pokhriyal-1a27872b/)
 
 </div>
 
